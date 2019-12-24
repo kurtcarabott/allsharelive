@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  allsharelive.api:
+    image: ${DOCKER_REGISTRY-}allsharelive
+    build:
+      context: .
+      dockerfile: AllShareLive.API/Dockerfile
