@@ -1,0 +1,10 @@
+/Users/kurtcarabott/DEV/AllShareLiveSystem/AllShareLive/AllShareLive/bin/Debug/netcoreapp3.1/AllShareLive
+/Users/kurtcarabott/DEV/AllShareLiveSystem/AllShareLive/AllShareLive/bin/Debug/netcoreapp3.1/AllShareLive.deps.json
+/Users/kurtcarabott/DEV/AllShareLiveSystem/AllShareLive/AllShareLive/bin/Debug/netcoreapp3.1/AllShareLive.runtimeconfig.json
+/Users/kurtcarabott/DEV/AllShareLiveSystem/AllShareLive/AllShareLive/bin/Debug/netcoreapp3.1/AllShareLive.runtimeconfig.dev.json
+/Users/kurtcarabott/DEV/AllShareLiveSystem/AllShareLive/AllShareLive/bin/Debug/netcoreapp3.1/AllShareLive.dll
+/Users/kurtcarabott/DEV/AllShareLiveSystem/AllShareLive/AllShareLive/bin/Debug/netcoreapp3.1/AllShareLive.pdb
+/Users/kurtcarabott/DEV/AllShareLiveSystem/AllShareLive/AllShareLive/obj/Debug/netcoreapp3.1/AllShareLive.AssemblyInfoInputs.cache
+/Users/kurtcarabott/DEV/AllShareLiveSystem/AllShareLive/AllShareLive/obj/Debug/netcoreapp3.1/AllShareLive.AssemblyInfo.cs
+/Users/kurtcarabott/DEV/AllShareLiveSystem/AllShareLive/AllShareLive/obj/Debug/netcoreapp3.1/AllShareLive.dll
+/Users/kurtcarabott/DEV/AllShareLiveSystem/AllShareLive/AllShareLive/obj/Debug/netcoreapp3.1/AllShareLive.pdb

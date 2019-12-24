@@ -1,33 +1,20 @@
-﻿<Properties StartupConfiguration="{805A61DD-3DC9-4E47-83F8-F08734403F30}|Default">
+﻿<Properties StartupConfiguration="{7EDDD00D-B4C7-48D7-85C7-F3D826D555B5}|Default">
   <MonoDevelop.Ide.ItemProperties.AllShareLive PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="AllShareLive.API/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="AllShareLiveAPI/Properties/launchSettings.json">
     <Files>
-      <File FileName="AllShareLive.sln" Line="9" Column="11" />
-      <File FileName="docker-compose.dcproj" Line="1" Column="1" />
-      <File FileName="docker-compose.override.yml" Line="4" Column="15" />
-      <File FileName="AllShareLive.API/Program.cs" Line="3" Column="1" />
-      <File FileName="AllShareLive.API/Startup.cs" Line="11" Column="2" />
-      <File FileName=".dockerignore" Line="1" Column="1" />
-      <File FileName="docker-compose.yml" Line="4" Column="15" />
-      <File FileName="../../../../../Applications/Visual Studio.app/Contents/Resources/lib/monodevelop/AddIns/docker/MonoDevelop.Docker/MSbuild/Sdks/Microsoft.Docker.Sdk/build/Microsoft.VisualStudio.Docker.Compose.targets" Line="492" Column="5" />
-      <File FileName="Dockerfile" Line="21" Column="1" />
-      <File FileName="AllShareLiveAPI/AllShareLiveAPI.csproj" Line="9" Column="68" />
-      <File FileName="AllShareLiveAPI/Program.cs" Line="10" Column="23" />
-      <File FileName="AllShareLiveAPI/Startup.cs" Line="11" Column="23" />
-      <File FileName="AllShareLiveAPI/Properties/launchSettings.json" Line="12" Column="2" />
+      <File FileName="AllShareLiveAPI/AllShareLiveAPI.csproj" Line="26" Column="1" />
+      <File FileName="AllShareLiveAPI/appsettings.json" Line="1" Column="1" />
+      <File FileName="AllShareLiveAPI/Properties/launchSettings.json" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="AllShareLive" expanded="True">
-            <Node name="Solution Items" expanded="True" />
-            <Node name="AllShareLive" expanded="True" />
             <Node name="AllShareLiveAPI" expanded="True">
               <Node name="Properties" expanded="True">
                 <Node name="launchSettings.json" selected="True" />
               </Node>
             </Node>
-            <Node name="docker-compose" expanded="True" />
           </Node>
         </State>
       </Pad>
@@ -39,7 +26,6 @@
   </DisabledProjects>
   <MonoDevelop.Ide.ItemProperties.AllShareLiveAPI PreferredExecutionTarget="/Applications/Google Chrome.app" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
-  <MonoDevelop.Ide.ItemProperties.docker-compose PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore>
       <Breakpoint enabled="false" file="/Users/kurtcarabott/DEV/AllShareLiveSystem/AllShareLive/AllShareLive.API/Startup.cs" relfile="AllShareLive.API/Startup.cs" line="43" column="1" />

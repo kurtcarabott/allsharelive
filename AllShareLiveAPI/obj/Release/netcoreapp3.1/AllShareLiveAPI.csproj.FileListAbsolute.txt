@@ -8,6 +8,7 @@
 /Users/kurtcarabott/DEV/AllShareLiveSystem/AllShareLive/AllShareLiveAPI/bin/Release/netcoreapp3.1/AllShareLiveAPI.dll
 /Users/kurtcarabott/DEV/AllShareLiveSystem/AllShareLive/AllShareLiveAPI/bin/Release/netcoreapp3.1/AllShareLiveAPI.pdb
 /Users/kurtcarabott/DEV/AllShareLiveSystem/AllShareLive/AllShareLiveAPI/bin/Release/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/kurtcarabott/DEV/AllShareLiveSystem/AllShareLive/AllShareLiveAPI/obj/Release/netcoreapp3.1/AllShareLiveAPI.csprojAssemblyReference.cache
 /Users/kurtcarabott/DEV/AllShareLiveSystem/AllShareLive/AllShareLiveAPI/obj/Release/netcoreapp3.1/staticwebassets/AllShareLiveAPI.StaticWebAssets.Manifest.cache
 /Users/kurtcarabott/DEV/AllShareLiveSystem/AllShareLive/AllShareLiveAPI/obj/Release/netcoreapp3.1/staticwebassets/AllShareLiveAPI.StaticWebAssets.xml
 /Users/kurtcarabott/DEV/AllShareLiveSystem/AllShareLive/AllShareLiveAPI/obj/Release/netcoreapp3.1/AllShareLiveAPI.MvcApplicationPartsAssemblyInfo.cache
