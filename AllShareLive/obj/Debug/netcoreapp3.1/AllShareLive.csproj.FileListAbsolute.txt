@@ -8,3 +8,14 @@
 /Users/kurtcarabott/DEV/AllShareLiveSystem/AllShareLive/AllShareLive/obj/Debug/netcoreapp3.1/AllShareLive.AssemblyInfo.cs
 /Users/kurtcarabott/DEV/AllShareLiveSystem/AllShareLive/AllShareLive/obj/Debug/netcoreapp3.1/AllShareLive.dll
 /Users/kurtcarabott/DEV/AllShareLiveSystem/AllShareLive/AllShareLive/obj/Debug/netcoreapp3.1/AllShareLive.pdb
+C:\DEV\KC\REPOS\kurtcarabott\allsharelive\AllShareLive\bin\Debug\netcoreapp3.1\AllShareLive.exe
+C:\DEV\KC\REPOS\kurtcarabott\allsharelive\AllShareLive\bin\Debug\netcoreapp3.1\AllShareLive.deps.json
+C:\DEV\KC\REPOS\kurtcarabott\allsharelive\AllShareLive\bin\Debug\netcoreapp3.1\AllShareLive.runtimeconfig.json
+C:\DEV\KC\REPOS\kurtcarabott\allsharelive\AllShareLive\bin\Debug\netcoreapp3.1\AllShareLive.runtimeconfig.dev.json
+C:\DEV\KC\REPOS\kurtcarabott\allsharelive\AllShareLive\bin\Debug\netcoreapp3.1\AllShareLive.dll
+C:\DEV\KC\REPOS\kurtcarabott\allsharelive\AllShareLive\bin\Debug\netcoreapp3.1\AllShareLive.pdb
+C:\DEV\KC\REPOS\kurtcarabott\allsharelive\AllShareLive\obj\Debug\netcoreapp3.1\AllShareLive.csprojAssemblyReference.cache
+C:\DEV\KC\REPOS\kurtcarabott\allsharelive\AllShareLive\obj\Debug\netcoreapp3.1\AllShareLive.AssemblyInfoInputs.cache
+C:\DEV\KC\REPOS\kurtcarabott\allsharelive\AllShareLive\obj\Debug\netcoreapp3.1\AllShareLive.AssemblyInfo.cs
+C:\DEV\KC\REPOS\kurtcarabott\allsharelive\AllShareLive\obj\Debug\netcoreapp3.1\AllShareLive.dll
+C:\DEV\KC\REPOS\kurtcarabott\allsharelive\AllShareLive\obj\Debug\netcoreapp3.1\AllShareLive.pdb

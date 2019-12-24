@@ -1,28 +1,32 @@
 {
   "format": 1,
   "restore": {
-    "/Users/kurtcarabott/DEV/AllShareLiveSystem/AllShareLive/AllShareLiveAPI/AllShareLiveAPI.csproj": {}
+    "C:\\DEV\\KC\\REPOS\\kurtcarabott\\allsharelive\\AllShareLiveAPI\\AllShareLiveAPI.csproj": {}
   },
   "projects": {
-    "/Users/kurtcarabott/DEV/AllShareLiveSystem/AllShareLive/AllShareLiveAPI/AllShareLiveAPI.csproj": {
+    "C:\\DEV\\KC\\REPOS\\kurtcarabott\\allsharelive\\AllShareLiveAPI\\AllShareLiveAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/kurtcarabott/DEV/AllShareLiveSystem/AllShareLive/AllShareLiveAPI/AllShareLiveAPI.csproj",
+        "projectUniqueName": "C:\\DEV\\KC\\REPOS\\kurtcarabott\\allsharelive\\AllShareLiveAPI\\AllShareLiveAPI.csproj",
         "projectName": "AllShareLiveAPI",
-        "projectPath": "/Users/kurtcarabott/DEV/AllShareLiveSystem/AllShareLive/AllShareLiveAPI/AllShareLiveAPI.csproj",
-        "packagesPath": "/Users/kurtcarabott/.nuget/packages/",
-        "outputPath": "/Users/kurtcarabott/DEV/AllShareLiveSystem/AllShareLive/AllShareLiveAPI/obj/",
+        "projectPath": "C:\\DEV\\KC\\REPOS\\kurtcarabott\\allsharelive\\AllShareLiveAPI\\AllShareLiveAPI.csproj",
+        "packagesPath": "C:\\Users\\KC\\.nuget\\packages\\",
+        "outputPath": "C:\\DEV\\KC\\REPOS\\kurtcarabott\\allsharelive\\AllShareLiveAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "/Users/kurtcarabott/.config/NuGet/NuGet.Config"
+          "C:\\Users\\KC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -39,6 +43,10 @@
       "frameworks": {
         "netcoreapp3.1": {
           "dependencies": {
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.9.10, )"
+            },
             "Newtonsoft.Json": {
               "target": "Package",
               "version": "[12.0.3, )"
@@ -62,7 +70,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.100/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
         }
       }
     }
