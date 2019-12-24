@@ -1,8 +1,0 @@
-/Users/kurtcarabott/DEV/AllShareLiveSystem/AllShareLive/bin/Release/appsettings.Development.json
-/Users/kurtcarabott/DEV/AllShareLiveSystem/AllShareLive/bin/Release/appsettings.json
-/Users/kurtcarabott/DEV/AllShareLiveSystem/AllShareLive/bin/Release/Properties/launchSettings.json
-/Users/kurtcarabott/DEV/AllShareLiveSystem/AllShareLive/bin/Release/AllShareLive.API
-/Users/kurtcarabott/DEV/AllShareLiveSystem/AllShareLive/bin/Release/AllShareLive.API.dll
-/Users/kurtcarabott/DEV/AllShareLiveSystem/AllShareLive/bin/Release/AllShareLive.API.pdb
-/Users/kurtcarabott/DEV/AllShareLiveSystem/AllShareLive/obj/Release/docker-compose.dcprojAssemblyReference.cache
-/Users/kurtcarabott/DEV/AllShareLiveSystem/AllShareLive/obj/Release/docker-compose.dcproj.CopyComplete

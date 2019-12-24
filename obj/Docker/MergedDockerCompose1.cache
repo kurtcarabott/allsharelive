@@ -1,11 +1,11 @@
 services:
-  allsharelive.api:
+  allshareliveapi:
     build:
       context: /Users/kurtcarabott/DEV/AllShareLiveSystem/AllShareLive
-      dockerfile: AllShareLive.API/Dockerfile
+      dockerfile: Dockerfile
       labels:
         com.microsoft.created-by: visual-studio
-        com.microsoft.visual-studio.project-name: AllShareLive.API
+        com.microsoft.visual-studio.project-name: AllShareLiveAPI
     entrypoint: tail -f /dev/null
     environment:
       ASPNETCORE_ENVIRONMENT: Development
@@ -14,7 +14,7 @@ services:
     image: allsharelive
     labels:
       com.microsoft.visualstudio.debuggee.arguments: ' --additionalProbingPath /root/.nuget/packages
-        --additionalProbingPath /root/.nuget/fallbackpackages  "AllShareLive.API.dll"'
+        --additionalProbingPath /root/.nuget/fallbackpackages  "AllShareLiveAPI.dll"'
       com.microsoft.visualstudio.debuggee.killprogram: /bin/sh -c "if PID=$$(pidof
         dotnet); then kill $$PID; fi"
       com.microsoft.visualstudio.debuggee.program: dotnet

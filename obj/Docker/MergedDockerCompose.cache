@@ -1,8 +1,8 @@
 services:
-  allsharelive.api:
+  allshareliveapi:
     build:
       context: /Users/kurtcarabott/DEV/AllShareLiveSystem/AllShareLive
-      dockerfile: AllShareLive.API/Dockerfile
+      dockerfile: AllShareLiveAPI/Dockerfile
     environment:
       ASPNETCORE_ENVIRONMENT: Development
       ASPNETCORE_HTTPS_PORT: '44394'
