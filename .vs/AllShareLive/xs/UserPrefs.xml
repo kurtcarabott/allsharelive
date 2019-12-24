@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{805A61DD-3DC9-4E47-83F8-F08734403F30}|Default">
+  <MonoDevelop.Ide.ItemProperties.AllShareLive PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.AllShareLive.API PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="AllShareLive.API/Dockerfile">
+    <Files>
+      <File FileName="AllShareLive.sln" Line="30" Column="1" />
+      <File FileName="AllShareLive.API/AllShareLive.API.csproj" Line="5" Column="61" />
+      <File FileName="AllShareLive.API/Dockerfile" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Option id="ShowAllFiles" value="True" />
+          <Node name="AllShareLive" expanded="True">
+            <Node name="docker-compose" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <DisabledProjects>
+    <String>AllShareLive.csproj</String>
+    <String>docker-compose.dcproj</String>
+  </DisabledProjects>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.docker-compose PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint enabled="false" file="/Users/kurtcarabott/DEV/AllShareLiveSystem/AllShareLive/AllShareLive.API/Startup.cs" relfile="AllShareLive.API/Startup.cs" line="43" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
