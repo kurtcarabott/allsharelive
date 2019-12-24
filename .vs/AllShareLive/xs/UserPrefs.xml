@@ -1,18 +1,24 @@
 ﻿<Properties StartupConfiguration="{805A61DD-3DC9-4E47-83F8-F08734403F30}|Default">
   <MonoDevelop.Ide.ItemProperties.AllShareLive PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.AllShareLive.API PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="AllShareLive.API/Dockerfile">
+  <MonoDevelop.Ide.Workbench ActiveDocument="docker-compose.override.yml">
     <Files>
       <File FileName="AllShareLive.sln" Line="30" Column="1" />
       <File FileName="AllShareLive.API/AllShareLive.API.csproj" Line="5" Column="61" />
-      <File FileName="AllShareLive.API/Dockerfile" Line="1" Column="1" />
+      <File FileName="AllShareLive.API/Dockerfile" Line="19" Column="35" />
+      <File FileName="docker-compose.dcproj" Line="1" Column="1" />
+      <File FileName="docker-compose.override.yml" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Option id="ShowAllFiles" value="True" />
           <Node name="AllShareLive" expanded="True">
-            <Node name="docker-compose" expanded="True" />
+            <Node name="docker-compose" expanded="True">
+              <Node name="docker-compose.yml" expanded="True">
+                <Node name="docker-compose.override.yml" selected="True" />
+              </Node>
+            </Node>
           </Node>
         </State>
       </Pad>

@@ -1,0 +1,39 @@
+services:
+  allsharelive.api:
+    build:
+      context: /Users/kurtcarabott/DEV/AllShareLiveSystem/AllShareLive
+      dockerfile: AllShareLive.API/Dockerfile
+      labels:
+        com.microsoft.created-by: visual-studio
+        com.microsoft.visual-studio.project-name: AllShareLive.API
+      target: base
+    entrypoint: tail -f /dev/null
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      ASPNETCORE_HTTPS_PORT: '44394'
+      ASPNETCORE_URLS: https://+:443;http://+:80
+      DOTNET_USE_POLLING_FILE_WATCHER: '1'
+      NUGET_FALLBACK_PACKAGES: /root/.nuget/fallbackpackages
+    image: allsharelive:dev
+    labels:
+      com.microsoft.visualstudio.debuggee.arguments: ' --additionalProbingPath /root/.nuget/packages
+        --additionalProbingPath /root/.nuget/fallbackpackages  "bin/Debug/netcoreapp3.1/AllShareLive.API.dll"'
+      com.microsoft.visualstudio.debuggee.killprogram: /bin/sh -c "if PID=$$(pidof
+        dotnet); then kill $$PID; fi"
+      com.microsoft.visualstudio.debuggee.program: dotnet
+      com.microsoft.visualstudio.debuggee.workingdirectory: /app
+    ports:
+    - published: 37043
+      target: 80
+    - published: 44394
+      target: 443
+    tty: true
+    volumes:
+    - /Users/kurtcarabott/DEV/AllShareLiveSystem/AllShareLive/AllShareLive.API:/app:rw
+    - /Users/kurtcarabott/vsdbg/vs2017u5:/remote_debugger:rw
+    - /Users/kurtcarabott/.aspnet/https:/root/.aspnet/https:ro
+    - /Users/kurtcarabott/.microsoft/usersecrets:/root/.microsoft/usersecrets:ro
+    - /usr/local/share/dotnet/sdk/NuGetFallbackFolder:/root/.nuget/fallbackpackages:ro
+    - /Users/kurtcarabott/.nuget/packages:/root/.nuget/packages:ro
+    - /Users/kurtcarabott/DEV/AllShareLiveSystem/AllShareLive:/src:rw
+version: '3.4'
